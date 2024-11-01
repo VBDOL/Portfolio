@@ -14,7 +14,7 @@ Espero que cada projeto que visualizarem, lhes agradem de alguma forma!
 | VBDOL DEV |   |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ✨ Nome        | **Portifólio** |
-| 🏷️ Tecnologias |HTML, CSS, JavaScript, React |
+| 🏷️ Tecnologias |HTML, CSS, JavaScript, Angular, Git, Sass, Bootstrap |
 
 <img src="/assets/images/port.JPG" alt="Descrição da imagem">
 
